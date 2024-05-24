@@ -1,0 +1,26 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+th, td{
+    border:solid 5px whitesmoke;
+    padding: 5px;
+    color: aliceblue;
+}
+a{
+    font-size: 35px;
+}
+body{
+    background-image: url(https://m.media-amazon.com/images/S/pv-target-images/a6d7bc6cbe57e2daa33a6f14607b2dfb8dca3c500ddbab8c730c241f7606c8fd._SX1080_FMjpg_.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+h1, p{
+    color: aliceblue;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul{
+    color: aliceblue;
+}
